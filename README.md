@@ -1,6 +1,6 @@
 # Wenyu Zhang
 
-Research Intern at The Hong Kong University of Science and Technology (Guangzhou).
+Independent researcher in Artificial Intelligence. I am currently doing a research internship related to AI, but I do not have an institutional email account.
 
 Email: 18241711886@163.com
 
